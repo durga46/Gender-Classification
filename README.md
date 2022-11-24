@@ -9,7 +9,7 @@
 
 4.Analyze the gender using deepface
 ## Program:
-
+```py
 /*
 Program to implement 
 Developed by   :DurgaDevi P
@@ -35,13 +35,15 @@ result2=DeepFace.analyze(img,actions=['emotion'])
 
 #print the gender
 print("Gender : ",result['gender'])
+```
 
 ## OUTPUT:
 
-   
+  ![img](https://user-images.githubusercontent.com/75235704/203776290-1faed23c-f8cf-453a-add5-f64abfd88fbd.PNG)
+ 
 
-v2
 
-    DEMO VIDEO YOUTUBE LINK:
+
+ ## DEMO VIDEO YOUTUBE LINK:
 
 https://youtu.be/yFzrwsKESZg
