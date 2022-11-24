@@ -8,7 +8,7 @@
 3.Read the image
 
 4.Analyze the gender using deepface
-Program:
+## Program:
 
 /*
 Program to implement 
@@ -36,9 +36,9 @@ result2=DeepFace.analyze(img,actions=['emotion'])
 #print the gender
 print("Gender : ",result['gender'])
 
-OUTPUT:
+## OUTPUT:
 
-    CODE :
+   
 
 v2
 
